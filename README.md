@@ -26,6 +26,6 @@ Software Engineer and currently studying Computer Science. I love building and t
 
 <div align="left">
   <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
 </div>
